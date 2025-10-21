@@ -1,0 +1,32 @@
+C:\Users\rodri\Desktop\promedio\promedio\bin\Debug\net8.0-windows\promedio.exe
+C:\Users\rodri\Desktop\promedio\promedio\bin\Debug\net8.0-windows\promedio.deps.json
+C:\Users\rodri\Desktop\promedio\promedio\bin\Debug\net8.0-windows\promedio.runtimeconfig.json
+C:\Users\rodri\Desktop\promedio\promedio\bin\Debug\net8.0-windows\promedio.dll
+C:\Users\rodri\Desktop\promedio\promedio\bin\Debug\net8.0-windows\promedio.pdb
+C:\Users\rodri\Desktop\promedio\promedio\obj\Debug\net8.0-windows\promedio.Form1.resources
+C:\Users\rodri\Desktop\promedio\promedio\obj\Debug\net8.0-windows\promedio.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\promedio\promedio\obj\Debug\net8.0-windows\promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\promedio\promedio\obj\Debug\net8.0-windows\promedio.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\promedio\promedio\obj\Debug\net8.0-windows\promedio.AssemblyInfo.cs
+C:\Users\rodri\Desktop\promedio\promedio\obj\Debug\net8.0-windows\promedio.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\promedio\promedio\obj\Debug\net8.0-windows\promedio.dll
+C:\Users\rodri\Desktop\promedio\promedio\obj\Debug\net8.0-windows\refint\promedio.dll
+C:\Users\rodri\Desktop\promedio\promedio\obj\Debug\net8.0-windows\promedio.pdb
+C:\Users\rodri\Desktop\promedio\promedio\obj\Debug\net8.0-windows\promedio.genruntimeconfig.cache
+C:\Users\rodri\Desktop\promedio\promedio\obj\Debug\net8.0-windows\ref\promedio.dll
+C:\Users\rodri\Desktop\guia Practica\promedio\promedio\bin\Debug\net8.0-windows\promedio.exe
+C:\Users\rodri\Desktop\guia Practica\promedio\promedio\bin\Debug\net8.0-windows\promedio.deps.json
+C:\Users\rodri\Desktop\guia Practica\promedio\promedio\bin\Debug\net8.0-windows\promedio.runtimeconfig.json
+C:\Users\rodri\Desktop\guia Practica\promedio\promedio\bin\Debug\net8.0-windows\promedio.dll
+C:\Users\rodri\Desktop\guia Practica\promedio\promedio\bin\Debug\net8.0-windows\promedio.pdb
+C:\Users\rodri\Desktop\guia Practica\promedio\promedio\obj\Debug\net8.0-windows\promedio.Form1.resources
+C:\Users\rodri\Desktop\guia Practica\promedio\promedio\obj\Debug\net8.0-windows\promedio.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\guia Practica\promedio\promedio\obj\Debug\net8.0-windows\promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\guia Practica\promedio\promedio\obj\Debug\net8.0-windows\promedio.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\guia Practica\promedio\promedio\obj\Debug\net8.0-windows\promedio.AssemblyInfo.cs
+C:\Users\rodri\Desktop\guia Practica\promedio\promedio\obj\Debug\net8.0-windows\promedio.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\guia Practica\promedio\promedio\obj\Debug\net8.0-windows\promedio.dll
+C:\Users\rodri\Desktop\guia Practica\promedio\promedio\obj\Debug\net8.0-windows\refint\promedio.dll
+C:\Users\rodri\Desktop\guia Practica\promedio\promedio\obj\Debug\net8.0-windows\promedio.pdb
+C:\Users\rodri\Desktop\guia Practica\promedio\promedio\obj\Debug\net8.0-windows\promedio.genruntimeconfig.cache
+C:\Users\rodri\Desktop\guia Practica\promedio\promedio\obj\Debug\net8.0-windows\ref\promedio.dll
