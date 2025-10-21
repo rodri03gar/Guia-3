@@ -6,7 +6,7 @@ namespace Login
 {
     public partial class Form1 : Form
     {
-        private const string USUARIO_CORRECTO = "Andresito";
+        private const string USUARIO_CORRECTO = "Rodrigo";
         private const string CONTRASENA_CORRECTA = "12345";
 
 
@@ -82,4 +82,5 @@ namespace Login
             }
         }
     }
+
 }
